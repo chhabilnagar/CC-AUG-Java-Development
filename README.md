@@ -1,6 +1,8 @@
 # CC-AUG-Java-Development
 Internship mini project
 
+Download the ZIP file & extract it and then open it in vs code editor and then run the Jar file "CurrencyConverter.jar"!!! 
+
 # currency-converter-in-java
 
 
